@@ -6,3 +6,8 @@ This is a React Native App which helps you to find right offer depends on your p
 
 https://expo.dev/@cherkiy/SeaJo?serviceType=classic&distribution=expo-go
 
+
+# Project showcase
+
+
+![showcase_search](https://github.com/Stcher/React-Native-WeatherApp/assets/57531556/c32ac8ee-520e-4274-8413-f11748dac2b4)
